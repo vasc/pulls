@@ -1,0 +1,11 @@
+{
+  "name": "pulls",
+  "description": "Repository/branch status",
+  "keywords": ["branch", "pull-request", "github", "lieferheld"],
+  "version": "0.0.1",
+  "author": "Vasco Fernandes <vasco.box@gmail.com>",
+  "repository": { "type": "git", "url": "http://github.com/vasc/pulls.git" },
+  "devDependencies": { 
+    "restify": ">= 1.4.4" },
+  "engines": { "node": ">= 0.8.4" },
+}
